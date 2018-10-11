@@ -1,0 +1,10 @@
+ChromeDriver=C:\\Users\\Acer\\Desktop\\selenium\\chromedriver\\chromedriver.exe
+
+Firefox=C:\\Users\\Acer\\Desktop\\selenium\\geckodriver\\geckodriver.exe
+
+IEDriver=C:\\Users\\Acer\\Desktop\\selenium\\geckodriver\\geckodriver.exe
+
+URL=http://kinstaging.graphenecreative.co.uk/
+
+ExcelPath=
+
